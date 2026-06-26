@@ -65,7 +65,6 @@ La base de datos está compuesta por las siguientes tablas:
 1. Clonar el repositorio.
 2. Crear una base de datos en MySQL.
 3. Importar el archivo `biblioteca.sql`.
-4. Ejecutar las consultas desde phpMyAdmin o cualquier gestor compatible con MySQL.
 
 ---
 
@@ -73,7 +72,7 @@ La base de datos está compuesta por las siguientes tablas:
 
 **Alcir Gustavo Quintanilla Rodríguez**
 
-Estudiante de Ingeniería en Desarrollo de Software.
+Estudiante de Desarrollo de Software.
 
 ---
 
