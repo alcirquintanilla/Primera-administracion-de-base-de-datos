@@ -54,7 +54,7 @@ La base de datos está compuesta por las siguientes tablas:
 ```text
 📁 Biblioteca
 │
-├── biblioteca.sql
+├── biblioteca_flamencos.sql
 ├── README.md
 ```
 
